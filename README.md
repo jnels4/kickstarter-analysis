@@ -1,14 +1,19 @@
 # kickstarter-analysis
-*Kick Starter Analysis*---
-**Focus** ---
+
+**Focus** 
+
 - Great Britan -> Plays -> Success vs Failed campaigns
 - Testing done for food trucks as an example
 - Variance statistics done for Successful vs failed plays in GB
-- Box and Whisker Plot focused on GB Musicals---
+- Box and Whisker Plot focused on GB Musicals
+
+
 Initially the client expressed interest in beginning a kickstarter. They are interested in plays, specifically in Great Britian (GB).  The analysis began with an overview of each of the kickstarter campaigns in our dataset.  
----
----
-*Initial Analysis* ---
+
+
+##*Initial Analysis* 
+
+
 Upon the initial analysis, it was concluded that theater was a viable category to begin a kickstarter campaign. Not only does theater have a large amount of campaigns, it can be conluded that most of the campaigns that were started were succesful. (see chart below)---
 **Category Analysis**
 ![ParentCategoryOutcomesV1](https://user-images.githubusercontent.com/6634774/163412592-cb97d305-670f-4f09-9145-0026a6bb23c0.png)
