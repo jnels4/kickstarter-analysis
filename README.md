@@ -30,6 +30,17 @@ Next, we analyzed specifically for GB, the amount of successful vs failed theate
 
 Looking further at the data, we decied to dive into how the outcomes played out based on their launch date, this was done in an effort to advise our client on when it was statistically the best time to create a succesful campaign.  
 
+We recommended that our client begin their campaign in May or June; however, the window of success could be as large as April through July.
+
 ![OutcomesBasedonLaunchDate](https://user-images.githubusercontent.com/6634774/163416574-930561b9-9210-4bb0-b29f-11ddd4986360.png)
 
+Our client was specifically looking to produce a musical, so we further looked at musical campaigns in GB.  From our data we created a box and whisker chart to analyze the requested goal vs the amount of money pledged.  We concluded that the average campaign goal was 2,800, while the median was 2,000, both of these fell within the range of the outliers for the amount pledged.  It was advised that our client should try to get their musical produced for less than 2,800 to have the greatest chance of success.
+
+
+![GBGoalvsPledgedBnW](https://user-images.githubusercontent.com/6634774/163421768-f3c5668c-4ae2-4ef2-a20f-cedde2bcef48.png)
+
+**Final Analysis**
+- Producing a play/musical in GB can lead to a successful kickstarter campaign
+- It is advised to start this campaign between the months of may and june based on historcal succeess during that time period.
+- Futher advised to create this kickstarter with a goal of 2,800 or less to have the best chance of success.
 
