@@ -11,7 +11,7 @@
 Initially the client expressed interest in beginning a kickstarter. They are interested in plays, specifically in Great Britian (GB).  The analysis began with an overview of each of the kickstarter campaigns in our dataset.  
 
 
-##*Initial Analysis* 
+##Initial Analysis
 
 
 Upon the initial analysis, it was concluded that theater was a viable category to begin a kickstarter campaign. Not only does theater have a large amount of campaigns, it can be conluded that most of the campaigns that were started were succesful. (see chart below)---
